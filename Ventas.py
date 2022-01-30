@@ -28,6 +28,8 @@ vendedor_entry.grid(row= 1, column= 1)
 
 
 
+
+
 app.title("Organización Lamia")
 app.geometry("700x350")
 app.mainloop()
